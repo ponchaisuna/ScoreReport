@@ -1,0 +1,5 @@
+S1001   Sirinthorn Cheyasak     F  3.25     1
+S1002   Malinee Deebunmee       F  2.75     2
+S1010   Smart Handsome          M  1.89     3
+S1005   Pretty Souysudsud       f  2.42     1
+S1006   Antony Meemoney         m  2.89     1
